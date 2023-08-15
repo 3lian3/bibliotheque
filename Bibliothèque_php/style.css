@@ -1,0 +1,38 @@
+h1{
+    color: rgb(23, 124, 109);
+}
+.resultat{
+    background: rgb(175, 238, 238);
+    margin: 10px;
+    padding: 10px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: rgb(175, 238, 238);
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a {
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    color: rgb(23, 124, 109);
+    font-size: 30px;
+}
+li a:hover{
+    background: rgb(23, 124, 109);
+    color: rgb(175, 238, 238);
+}
+legend{
+    font-size: 30px;
+}
+label{
+    font-size: 20px;
+}
+.listLivre{
+    color: black;
+}
